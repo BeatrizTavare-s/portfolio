@@ -7,6 +7,8 @@ Bem-vindo ao meu portfólio! Este repositório contém os arquivos do meu site p
 Você pode acessar o meu portfólio online através do link abaixo:
 [Beatriz Tavares - Portfólio](https://beatriztavare-s.github.io/portfolio/)
 
+![Imagem do Portfólio](https://raw.githubusercontent.com/BeatrizTavare-s/portfolio/main/img-portifolio.PNG)
+
 ## Tecnologias Utilizadas
 
 - HTML
