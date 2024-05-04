@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+html {
+  background-color: #1A1A1A;
+  /* font-family: "Roboto", Arial, Helvetica, sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.header {
+  display: flex;
+  background-color: #002EA3;
+}
+
+.container-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4em;
+  color: white;
+  width: 100%;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.menu {
+  width: 3em;
+  height: 3em;
+  cursor: pointer;
+}
+
+/* first-content start */
+
+.first-section {
+  padding: 5em;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 0.1em #002EA3 solid;
+}
+
+
+
+.name {
+  color: white;
+  font-size: 4em;
+  margin-bottom: 0.5em;
+}
+
+.description {
+  color: #929292;
+  font-size: 2em;
+  width: 20em;
+}
+
+.js-coffe-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 20em;
+}
+
+.js-icon {
+  width: 7em;
+  height: 7em;
+}
+
+.coffee-icon {
+  width: 7em;
+  height: 7em;
+}
+
+.barra {
+  color: #929292;
+  font-size: 8em;
+}
+
+/* first-content end */
+
+
+/* about-content start */
+
+.about-section {
+  padding: 5em;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  border-bottom: 0.1em #002EA3 solid;
+}
+
+.about-title {
+  width: 100%;
+  text-align: end;
+  font-size: 4em;
+  color: white;
+  padding-bottom: 0.5em;
+}
+
+.about-description {
+  font-size: 1.5em;
+  color: #929292;
+  text-align: end;
+}
+
+/* about-content end */
+
+
+
+/* education-content start */
+.education-section {
+  padding: 5em;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  border-bottom: 0.1em #002EA3 solid;
+}
+
+.education-title {
+  width: 100%;
+  font-size: 4em;
+  color: white;
+  padding-bottom: 0.5em;
+}
+
+.education-description {
+  font-size: 1.5em;
+  color: #929292;
+}
+
+/* education-content end */
+
+
+/* experience-content start */
+.experience-section {
+  padding: 5em;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  border-bottom: 0.1em #002EA3 solid;
+  text-align: end;
+}
+
+.experience-title {
+  width: 100%;
+  font-size: 4em;
+  color: white;
+  padding-bottom: 0.5em;
+  text-align: end;
+}
+
+.experience-description {
+  font-size: 1.5em;
+  color: #929292;
+}
+
+/* experience-content end */
+
+
+/* stack-content start */
+.stack-section {
+  padding: 5em;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  border-bottom: 0.1em #002EA3 solid;
+}
+
+.stack-title {
+  width: 100%;
+  font-size: 4em;
+  color: white;
+  padding-bottom: 0.5em;
+}
+
+.stack-description {
+  font-size: 1.5em;
+  color: #929292;
+}
+
+/* stack-content end */
